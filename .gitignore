@@ -15,6 +15,11 @@ images/
 audio/
 frames/
 
+# Personal projects (don't commit personal work)
+vaporwave-archive-visualizer.html
+texture-based-visualizer.html
+*-visualizer.html
+
 # Node modules if you extend this with a server
 node_modules/
 npm-debug.log*
