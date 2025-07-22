@@ -69,9 +69,6 @@ In your project folder, create two files:
 - [`QUICK_START.md`](QUICK_START.md) - 5-minute implementation guide
 - [`conversation-log-template.md`](conversation-log-template.md) - Human-readable template
 - [`persistence-system-template.json`](persistence-system-template.json) - Machine-readable template
-- [`GITHUB_ISSUE_TEMPLATE.md`](GITHUB_ISSUE_TEMPLATE.md) - Report to Microsoft VS Code team
-- [`SOCIAL_MEDIA_STRATEGY.md`](SOCIAL_MEDIA_STRATEGY.md) - Help spread awareness
-- [`vaporwave-archive-visualizer.html`](vaporwave-archive-visualizer.html) - Real-world example project
 
 ## 🎨 Real-World Example
 
