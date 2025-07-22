@@ -56,7 +56,7 @@ Beyond solving memory persistence, we've created a framework where AI capabiliti
 
 ## Contact for Collaboration
 **GitHub**: [OmegaVR-Dev](https://github.com/OmegaVR-Dev)  
-**Background**: 30+ years of software & hardware expertise, 17+ years restoration expertise, Unity optimization specialist, AI-enhanced development pioneer
+**Background**: 20+ years of software & hardware expertise, 17+ years restoration expertise, Unity optimization specialist, AI-enhanced development pioneer
 
 
 **We're committed to:**
