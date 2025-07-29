@@ -11,9 +11,9 @@
 
 --- 
 
-🐍 Python Packages (if using Python-based extensions)
-
 ##Prerequisites:
+
+🐍 Python Packages (if using Python-based extensions)
 `
 pip install cryptography
 pip install numpy
