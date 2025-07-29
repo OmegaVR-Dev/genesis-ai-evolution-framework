@@ -24,8 +24,10 @@ pip install requests
 `
 
 📦 Node.js Modules (if integrating with JS-based tools)
-"npm install chokidar" 
-"npm install fs-extra"
+`
+npm install chokidar 
+npm install fs-extra
+`
 
 ---
 
