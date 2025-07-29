@@ -9,7 +9,26 @@
 **Discovery Date**: July 2025  
 **Status**: Architecture proven, ready for AI evolution implementation
 
----  
+--- 
+
+🐍 Python Packages (if using Python-based extensions)
+
+##Prerequisites:
+`
+pip install cryptography
+pip install numpy
+pip install pillow
+pip install opencv-python
+pip install scipy
+pip install requests
+`
+
+📦 Node.js Modules (if integrating with JS-based tools)
+"npm install chokidar" 
+"npm install fs-extra"
+
+---
+
 
 ### The Breakthrough We've Achieved:
 While solving AI memory persistence, we discovered something far more significant: **a framework for safe, user-controlled AI evolution**. This architecture enables AI capabilities to grow locally while maintaining privacy and safety - the foundation for beneficial AI advancement.
