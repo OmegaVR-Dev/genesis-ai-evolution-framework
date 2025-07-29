@@ -1,4 +1,5 @@
 # VS Code Chat Performance Fix: Quick Start Guide:
+---
 
 ## 🚨 The Problem
 VS Code chat becomes painfully slow (10-30+ second responses) during long development sessions, forcing you to lose context when starting new chats.
