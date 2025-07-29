@@ -71,10 +71,6 @@ Beyond solving memory persistence, we've created a framework where AI capabiliti
 8. **[Implementation Examples](./examples/)** - Working demonstrations
 9. **[ASI Implications](./docs/asi-implications.md)** - Superintelligence applications
 
-## Live Demonstration:
-- **VS Code Performance Solution**: [OmegaVR-Dev/vscode-chat-performance-solution](https://github.com/OmegaVR-Dev/vscode-chat-performance-solution)  
-- **Proven Foundation**: Real-world implementation showing architecture viability
-
 ---
 
 ## Contact for Collaboration:
