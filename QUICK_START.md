@@ -3,10 +3,12 @@
 
 ## 🚨 The Problem
 VS Code chat becomes painfully slow (10-30+ second responses) during long development sessions, forcing you to lose context when starting new chats.
+
 ---
 
 ## ⚡ The Solution
 Create local persistence files that maintain full project context, allowing instant recovery in fresh chat windows.
+
 ---
 
 ### Step 1: When Chat Gets Slow
