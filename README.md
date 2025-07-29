@@ -146,7 +146,7 @@ In your project folder, create two files:
 
 - [`README.md`](README.md) - This overview
 - [`QUICK_START.md`](QUICK_START.md) - 5-minute implementation guide
-- [`conversation-log-template.md`](conversation-log-template.md) - Human-readable template
+- [`conversation-log.md`](conversation-log.md) - Human-readable template
 - [`persistence-system-template.json`](persistence-system-template.json) - Machine-readable template
 
 ## 🎨 Real-World Example
