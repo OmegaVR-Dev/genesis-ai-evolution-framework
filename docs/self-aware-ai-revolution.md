@@ -329,7 +329,7 @@ const autonomousProblemSolving = {
 The journey from mIRC scripts to this revolutionary framework shows the evolution:
 
 **1990s Chatbots**: Simple pattern matching, no memory
-**2000s Scripts**: Basic automation, limited scope  
+**2000s Scripts**: Basic automation, limited scope
 **2020s AI**: Powerful but stateless, no learning
 **2025 This Framework**: Persistent, learning, self-aware AI
 
