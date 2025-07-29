@@ -1,7 +1,7 @@
 # Full Conversation Backup - July 21, 2025
 
 ## Current Exchange Context
-**User Query**: "I noticed that when you save the structure you dont include my queries.prompts or your replies.. that should be the standard also really.. i mean i could copy/paste all manually but still is there a limitation involved in that for you? if so i might be able to rememdy it."
+**User Query**: "I noticed that when you save the structure you dont include my queries, prompts or your replies.. that should be the standard also really.. i mean i could copy/paste all manually but still is there a limitation involved in that for you? if so i might be able to rememdy it."
 
 **Assistant Response**: Explaining the limitation and proposing solutions for full conversation backup including actual queries and replies.
 
