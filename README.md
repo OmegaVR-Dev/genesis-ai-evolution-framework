@@ -107,7 +107,7 @@ VS Code's chat feature progressively slows down during long development sessions
 - [`README.md`](README.md) - This overview
 - [`QUICK_START.md`](QUICK_START.md) - 5-minute implementation guide
 - [`conversation-log.md`](conversation-log.md) - Human-readable template
-- [`persistence-system-template.json`](persistence-system.json) - Machine-readable template
+- [`persistence-system.json`](persistence-system.json) - Machine-readable template
 
 ## 🎨 Real-World Example
 
