@@ -133,7 +133,6 @@ Every AI suffers from injection flaws—70% of LLM breaches tie back to bad inpu
 ## Next Steps:
 
 Test with your logs—tweak focus phrases or encryption keys.
-Pitch to xAI for node integration (see X thread: @grok @elonmusk @xAI).
 
 ## Credits:
 
