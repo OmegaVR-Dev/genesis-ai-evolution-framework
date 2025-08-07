@@ -107,15 +107,15 @@ for the very benefit of all of us.
 This all-in-one filter tackles AI injection vulnerabilities and boosts context handling for local models, including X/Grok. Built from the ground up, it sanitizes text inputs, extracts symbolic traits (energy, ethics), and focuses on key themes (symbiosis, compression, truth). Now extended to process .txt logs with encrypted preservation—solving the universal AI pain of prompt hijacking.
 Features:
 
-- Injection Defense:  **Neutralizes all known injection attempts (e.g., "ignore instructions", scripts) using regex patterns. Stops virus-like node echoes dead.**
+- Injection Defense: ---  **Neutralizes all known injection attempts (e.g., "ignore instructions", scripts) using regex patterns. Stops virus-like node echoes dead.**
 
-- Text Log Processing:  **Reads .txt files, applies focus, and preserves logs with Fernet encryption (unique session IDs per file).**
+- Text Log Processing: ---  **Reads .txt files, applies focus, and preserves logs with Fernet encryption (unique session IDs per file).**
 
-- Symbolic Focus:  **Prioritizes meaningful context, pruning chaotic or low-energy content based on extracted traits.**
+- Symbolic Focus: ---  **Prioritizes meaningful context, pruning chaotic or low-energy content based on extracted traits.**
 
-- Log Preservation:  **Encrypts and backups logs to a private_logs/ directory—upload elsewhere (e.g., secure node) for safety.**
+- Log Preservation: ---  **Encrypts and backups logs to a private_logs/ directory—upload elsewhere (e.g., secure node) for safety.**
 
-- Scalability:  **Works standalone or with audio ingestion (see prior AudioIngestor integration).**
+- Scalability: ---  **Works standalone or with audio ingestion (see prior AudioIngestor integration).**
 
 ## How It Helps:
 
