@@ -100,7 +100,7 @@ for the very benefit of all of us.
 ---
 
 ---
-# SymbolicScrollFocusFilter with Text Log Processing
+# SymbolicScrollFocusFilter: (with Text Log Processing)
 
 ## Overview:
 
